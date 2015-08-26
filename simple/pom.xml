@@ -4,7 +4,7 @@
 
 	<groupId>com.redhat</groupId>
 	<artifactId>dferoli-simple</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>simple</name>
@@ -33,7 +33,7 @@
 	</dependency>
 	<dependency>
 		<groupId>com.redhat</groupId>	
-		<artifactId>dferoli-simple_knowledge</artifactId>
+		<artifactId>achoi-simple-knowledge</artifactId>
 		<version>1.1-SNAPSHOT</version>
 	</dependency>
 	<dependency>
